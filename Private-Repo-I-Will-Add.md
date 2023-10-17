@@ -1,1 +1,3 @@
-
+- ETL : Apache Airflow, Kafka
+- Computer Vision : YoloV4, OpenCV, Tensorflow
+- NLP : nltk, ...

@@ -1,7 +1,5 @@
 # projects-cv
 
-Certainly, here's a README template for your portfolio repository:
-
 # My Portfolio
 
 Welcome to my portfolio repository! This repository is a collection of projects that demonstrate my abilities in various programming stacks. Please feel free to explore and see the code in action.
@@ -27,7 +25,3 @@ I have worked with a variety of programming stacks, and I hope you find the stac
 ## Thanks for Reading!
 
 Thank you for taking the time to explore my portfolio. I hope you find the projects and code samples useful and insightful. If you have any feedback or suggestions, I'd love to hear from you. Your input helps me improve and grow as a developer.
-
-Happy coding!
-
-[Your Name]

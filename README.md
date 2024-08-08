@@ -12,9 +12,8 @@ For security and software vulnerability reasons, I'm only providing the code her
 
 If you would like to discuss any project, access the commits, or have any questions, you can contact me through:
 
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
+- LinkedIn: 
+
 
 I'm always open to collaboration and would be happy to provide more information or assistance.
 
